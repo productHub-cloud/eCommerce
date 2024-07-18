@@ -1217,8 +1217,26 @@ ol {
 }
 @media screen and (max-width:575px) {
 	.categories__text p {
-		max-width: 70%;
+		max-width: 67%;
 	}
+}
+
+.home_p {
+    font-size: 57%;
+    font-weight: bold;
+    background-image: linear-gradient(148deg, #fdffbe, transparent);
+    border-radius: 2%;
+    color: #583a3a;
+    padding: 2px;
+}
+
+.home_p_women {
+    font-size: 70%;
+    font-weight: bold;
+    background-image: linear-gradient(148deg, #fdffbe, transparent);
+    border-radius: 2%;
+    color: #583a3a;
+    padding: 2px;
 }
 
 .categories__text a {
